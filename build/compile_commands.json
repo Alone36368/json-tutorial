@@ -1,0 +1,14 @@
+[
+{
+  "directory": "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/build",
+  "command": "G:\\mingw-64-msys\\ucrt64\\bin\\gcc.exe    -ansi -pedantic -Wall -g -o CMakeFiles\\leptjson.dir\\leptjson.c.obj -c G:\\cc\\c++\\cpp_projects\\json-tutorial\\json-tutorial\\tutorial01\\leptjson.c",
+  "file": "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01/leptjson.c",
+  "output": "CMakeFiles/leptjson.dir/leptjson.c.obj"
+},
+{
+  "directory": "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/build",
+  "command": "G:\\mingw-64-msys\\ucrt64\\bin\\gcc.exe    -ansi -pedantic -Wall -g -o CMakeFiles\\leptjson_test.dir\\test.c.obj -c G:\\cc\\c++\\cpp_projects\\json-tutorial\\json-tutorial\\tutorial01\\test.c",
+  "file": "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01/test.c",
+  "output": "CMakeFiles/leptjson_test.dir/test.c.obj"
+}
+]

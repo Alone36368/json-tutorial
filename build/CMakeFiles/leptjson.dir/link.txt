@@ -1,0 +1,2 @@
+G:\mingw-64-msys\ucrt64\bin\ar.exe qc libleptjson.a CMakeFiles/leptjson.dir/leptjson.c.obj
+G:\mingw-64-msys\ucrt64\bin\ranlib.exe libleptjson.a
