@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.31"
+						"string" : "2.6"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -59,7 +59,7 @@
 	"paths" : 
 	{
 		"build" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/build",
-		"source" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01"
+		"source" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02"
 	},
 	"version" : 
 	{

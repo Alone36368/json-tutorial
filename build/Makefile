@@ -56,7 +56,7 @@ RM = G:\cmake-3.31.0-windows-x86_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01
+CMAKE_SOURCE_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build
@@ -90,12 +90,6 @@ all: cmake_check_build_system
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build\CMakeFiles 0
 .PHONY : all
-
-# The main codegen target
-codegen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Finished generating code"
-.PHONY : codegen
 
 # The main clean target
 clean:

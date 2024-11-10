@@ -1,6 +1,6 @@
 CMakeFiles/leptjson.dir/leptjson.c.obj: \
- G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\leptjson.c \
- G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\leptjson.h \
+ G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\leptjson.c \
+ G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\leptjson.h \
  G:/mingw-64-msys/ucrt64/include/assert.h \
  G:/mingw-64-msys/ucrt64/include/crtdefs.h \
  G:/mingw-64-msys/ucrt64/include/corecrt.h \
@@ -17,4 +17,5 @@ CMakeFiles/leptjson.dir/leptjson.c.obj: \
  G:/mingw-64-msys/ucrt64/include/sec_api/stdlib_s.h \
  G:/mingw-64-msys/ucrt64/include/malloc.h \
  G:/mingw-64-msys/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
- G:/mingw-64-msys/ucrt64/include/errno.h
+ G:/mingw-64-msys/ucrt64/include/errno.h \
+ G:/mingw-64-msys/ucrt64/include/math.h

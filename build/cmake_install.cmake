@@ -1,4 +1,4 @@
-# Install script for directory: G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01
+# Install script for directory: G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

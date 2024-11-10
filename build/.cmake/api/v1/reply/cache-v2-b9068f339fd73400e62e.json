@@ -167,10 +167,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "G:/mingw-64-msys/ucrt64/bin/gcc.exe"
 		},
 		{
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01"
+			"value" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01"
+			"value" : "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02"
 		}
 	],
 	"kind" : "cache",

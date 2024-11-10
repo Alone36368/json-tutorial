@@ -29,8 +29,8 @@ CMAKE_COLOR_MAKEFILE:BOOL=ON
 //No help, variable specified on the command line.
 CMAKE_CXX_COMPILER:FILEPATH=G:/mingw-64-msys/ucrt64/bin/g++.exe
 
-//No help, variable specified on the command line.
-CMAKE_C_COMPILER:FILEPATH=G:/mingw-64-msys/ucrt64/bin/gcc.exe
+//C compiler
+CMAKE_C_COMPILER:STRING=G:/mingw-64-msys/ucrt64/bin/gcc.exe
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -222,7 +222,7 @@ leptjson_test_BINARY_DIR:STATIC=G:/cc/c++/cpp_projects/json-tutorial/json-tutori
 leptjson_test_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-leptjson_test_SOURCE_DIR:STATIC=G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01
+leptjson_test_SOURCE_DIR:STATIC=G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02
 
 
 ########################
@@ -295,7 +295,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01
+CMAKE_HOME_DIRECTORY:INTERNAL=G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM

@@ -52,7 +52,7 @@ RM = G:\cmake-3.31.0-windows-x86_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01
+CMAKE_SOURCE_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build
@@ -72,18 +72,18 @@ CMakeFiles/leptjson_test.dir/codegen:
 .PHONY : CMakeFiles/leptjson_test.dir/codegen
 
 CMakeFiles/leptjson_test.dir/test.c.obj: CMakeFiles/leptjson_test.dir/flags.make
-CMakeFiles/leptjson_test.dir/test.c.obj: G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01/test.c
+CMakeFiles/leptjson_test.dir/test.c.obj: G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02/test.c
 CMakeFiles/leptjson_test.dir/test.c.obj: CMakeFiles/leptjson_test.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leptjson_test.dir/test.c.obj"
-	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/leptjson_test.dir/test.c.obj -MF CMakeFiles\leptjson_test.dir\test.c.obj.d -o CMakeFiles\leptjson_test.dir\test.c.obj -c G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\test.c
+	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/leptjson_test.dir/test.c.obj -MF CMakeFiles\leptjson_test.dir\test.c.obj.d -o CMakeFiles\leptjson_test.dir\test.c.obj -c G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\test.c
 
 CMakeFiles/leptjson_test.dir/test.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/leptjson_test.dir/test.c.i"
-	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\test.c > CMakeFiles\leptjson_test.dir\test.c.i
+	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\test.c > CMakeFiles\leptjson_test.dir\test.c.i
 
 CMakeFiles/leptjson_test.dir/test.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/leptjson_test.dir/test.c.s"
-	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\test.c -o CMakeFiles\leptjson_test.dir\test.c.s
+	G:\mingw-64-msys\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\test.c -o CMakeFiles\leptjson_test.dir\test.c.s
 
 # Object files for target leptjson_test
 leptjson_test_OBJECTS = \
@@ -110,6 +110,6 @@ CMakeFiles/leptjson_test.dir/clean:
 .PHONY : CMakeFiles/leptjson_test.dir/clean
 
 CMakeFiles/leptjson_test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01 G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01 G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build\CMakeFiles\leptjson_test.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02 G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02 G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\build\CMakeFiles\leptjson_test.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/leptjson_test.dir/depend
 

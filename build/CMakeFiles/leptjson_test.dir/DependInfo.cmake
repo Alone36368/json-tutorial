@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial01/test.c" "CMakeFiles/leptjson_test.dir/test.c.obj" "gcc" "CMakeFiles/leptjson_test.dir/test.c.obj.d"
+  "G:/cc/c++/cpp_projects/json-tutorial/json-tutorial/tutorial02/test.c" "CMakeFiles/leptjson_test.dir/test.c.obj" "gcc" "CMakeFiles/leptjson_test.dir/test.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

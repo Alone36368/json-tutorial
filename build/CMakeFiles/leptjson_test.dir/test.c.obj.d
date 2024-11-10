@@ -1,5 +1,5 @@
 CMakeFiles/leptjson_test.dir/test.c.obj: \
- G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\test.c \
+ G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\test.c \
  G:/mingw-64-msys/ucrt64/include/stdio.h \
  G:/mingw-64-msys/ucrt64/include/corecrt_stdio_config.h \
  G:/mingw-64-msys/ucrt64/include/corecrt.h \
@@ -23,4 +23,4 @@ CMakeFiles/leptjson_test.dir/test.c.obj: \
  G:/mingw-64-msys/ucrt64/include/errno.h \
  G:/mingw-64-msys/ucrt64/include/string.h \
  G:/mingw-64-msys/ucrt64/include/sec_api/string_s.h \
- G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial01\leptjson.h
+ G:\cc\c++\cpp_projects\json-tutorial\json-tutorial\tutorial02\leptjson.h
